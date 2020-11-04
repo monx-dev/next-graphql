@@ -1,0 +1,29 @@
+schema: ./src/graphql/schema.ts
+documents:
+  - ./src/components/**/*.tsx
+  - ./src/components/**/*.ts
+generates:
+  ./src/graphql/generated/types.ts:
+    plugins:
+      - add: "import { Context as MyContext } from '../context';"
+      - typescript
+      - typescript-resolvers
+    config:
+      contextType: MyContext
+
+
+  ./src/graphql/generated/schema.graphql:
+    plugins:
+      - schema-ast
+    config:
+      includeDirectives: true
+
+  ./src/graphql/generated/operations.tsx:
+    plugins:
+      - 'typescript'
+      - 'typescript-operations'
+      - 'typescript-react-apollo'
+    config:
+      withHooks: true
+      withHOC: false
+      withComponent: false

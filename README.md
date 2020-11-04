@@ -1,0 +1,3 @@
+# NextJS GraphQL
+
+todo: example
