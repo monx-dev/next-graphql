@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+'use strict';
+
 /* eslint-disable @typescript-eslint/no-var-requires */
 const cli = require('@graphql-codegen/cli');
 const path = require('path');
