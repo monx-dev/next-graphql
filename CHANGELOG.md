@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/monx-dev/next-graphql/compare/v1.1.3...v1.1.4) (2020-11-05)
+
+
+### Bug Fixes
+
+* add dependency ([1c0111f](https://github.com/monx-dev/next-graphql/commit/1c0111fba7a86b0757787a3dbec0d0ace349a478))
+
 ## [1.1.3](https://github.com/monx-dev/next-graphql/compare/v1.1.2...v1.1.3) (2020-11-05)
 
 
