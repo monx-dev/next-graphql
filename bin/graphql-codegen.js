@@ -5,6 +5,6 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 const cli = require('@graphql-codegen/cli');
 
-const { codegenConfig } = require('./codegenConfig');
+const codegenConfig = require('./codegenConfig');
 
 cli.generate(codegenConfig, true);

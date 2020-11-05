@@ -5,7 +5,7 @@ const src = './src';
 const components = path.join(src, 'components');
 const graphql = path.join(src, 'graphql', 'generated');
 
-export const codegenConfig = {
+module.exports = {
   schema: path.join(src, 'graphql', 'schema.ts'),
   documents: [path.join(components, '**', '*.tsx'), path.join(components, '**', '*.tsx')],
   generates: {
