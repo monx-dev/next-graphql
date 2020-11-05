@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/monx-dev/next-graphql/compare/v1.1.4...v1.2.0) (2020-11-05)
+
+
+### Features
+
+* add watch ([8c8546c](https://github.com/monx-dev/next-graphql/commit/8c8546c084258cd829632704398405e01a511b0a))
+
 ## [1.1.4](https://github.com/monx-dev/next-graphql/compare/v1.1.3...v1.1.4) (2020-11-05)
 
 
