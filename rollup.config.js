@@ -8,7 +8,7 @@ import { DEFAULT_EXTENSIONS } from '@babel/core';
 import { dependencies } from './package.json';
 
 export default {
-  input: ['src/setupGraphQL.ts'],
+  input: ['src/setupGraphQL.ts', 'src/withApollo.tsx'],
   output: [
     {
       dir: 'dist',

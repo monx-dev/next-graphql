@@ -18,6 +18,7 @@
     "test": "yarn build"
   },
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
     "@graphql-codegen/add": "^2.0.1",
     "@graphql-codegen/cli": "^1.19.0",
     "@graphql-codegen/schema-ast": "^1.17.8",
@@ -28,9 +29,11 @@
     "@graphql-tools/schema": "^7.0.0",
     "@playlyfe/gql": "^2.6.2",
     "@types/micro-cors": "^0.1.1",
+    "apollo-boost": "^0.4.9",
     "apollo-server-micro": "^2.19.0",
     "graphql": "^15.4.0",
-    "micro-cors": "^0.1.1"
+    "micro-cors": "^0.1.1",
+    "next-with-apollo": "^5.1.0"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
