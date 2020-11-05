@@ -17,7 +17,7 @@ cli.generate(
     generates: {
       [path.join(graphql, 'types.ts')]: {
         plugins: [
-          { add: "import { Context as MyContext } from '../context';" },
+          { add: { content: "import { Context as MyContext } from '../context';" } },
           'typescript',
           'typescript-resolvers',
         ],
