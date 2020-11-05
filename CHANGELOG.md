@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/monx-dev/next-graphql/compare/v1.1.1...v1.1.2) (2020-11-05)
+
+
+### Bug Fixes
+
+* codegen path ([9d85871](https://github.com/monx-dev/next-graphql/commit/9d85871781aa69191a1686a34089aab0ff047c63))
+* graphql dependency ([9afca2b](https://github.com/monx-dev/next-graphql/commit/9afca2bdf0bd586efec28b40f13d3f82bfa6e2f5))
+
 ## [1.1.1](https://github.com/monx-dev/next-graphql/compare/v1.1.0...v1.1.1) (2020-11-05)
 
 
