@@ -6,7 +6,7 @@
 const cli = require('@graphql-codegen/cli');
 const path = require('path');
 
-const src = path.join('.', 'src');
+const src = './src';
 const components = path.join(src, 'components');
 const graphql = path.join(src, 'graphql', 'generated');
 
