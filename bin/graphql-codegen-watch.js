@@ -7,4 +7,4 @@ const cli = require('@graphql-codegen/cli');
 
 const { codegenConfig } = require('./codegenConfig');
 
-cli.generate(codegenConfig, true);
+cli.generate({ ...codegenConfig, watch: true }, true);

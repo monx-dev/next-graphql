@@ -37,7 +37,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
-    "graphql-codegen": "./bin/graphql-codegen.js"
+    "graphql-codegen": "./bin/graphql-codegen.js",
+    "graphql-codegen:watch": "./bin/graphql-codegen-watch.js"
   },
   "license": "MIT",
   "devDependencies": {
