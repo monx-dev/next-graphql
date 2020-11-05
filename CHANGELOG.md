@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/monx-dev/next-graphql/compare/v1.2.0...v1.2.1) (2020-11-05)
+
+
+### Bug Fixes
+
+* bin script ([1d7d1ac](https://github.com/monx-dev/next-graphql/commit/1d7d1ac8e3c7889569253b1edaa54197c49487f2))
+
 # [1.2.0](https://github.com/monx-dev/next-graphql/compare/v1.1.4...v1.2.0) (2020-11-05)
 
 
