@@ -894,12 +894,12 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@graphql-codegen/add@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@graphql-codegen/add/-/add-2.0.1.tgz#b2cf2ef0e2c83f49dfa1f6a52fee94dfb47e296f"
-  integrity sha512-P8+PTHMrNdR/FJn+AQmLtba76H57E5R82Qw8QsntYUYAPUPXOIy4bn3v0rzcrkOnFHanTFjckNcLCF7khEHwJQ==
+"@graphql-codegen/add@1.15.3":
+  version "1.15.3"
+  resolved "https://registry.yarnpkg.com/@graphql-codegen/add/-/add-1.15.3.tgz#932d74e6c302f5642b814091fbe7992f5b7c9d2d"
+  integrity sha512-3aFxP7V19KNclxWGbVSJEBMfKaI3k6+Xbf+UcglE+Ml2UT4U83U2pJ91c7O7Dh4yC4JndBeN9Hok+TcGMa4AaQ==
   dependencies:
-    "@graphql-codegen/plugin-helpers" "^1.17.8"
+    "@graphql-codegen/plugin-helpers" "1.15.3"
     tslib "~2.0.0"
 
 "@graphql-codegen/cli@^1.19.0":
@@ -961,6 +961,22 @@
     "@graphql-tools/merge" "^6.0.18"
     "@graphql-tools/utils" "^6.0.18"
     tslib "~2.0.0"
+
+"@graphql-codegen/plugin-helpers@1.15.3":
+  version "1.15.3"
+  resolved "https://registry.yarnpkg.com/@graphql-codegen/plugin-helpers/-/plugin-helpers-1.15.3.tgz#0e2cf89b8aec3ee7a737157ac1b08fbfce626e07"
+  integrity sha512-32SbFNWRqUrjVbD5NQjlvbaM+be7x3upu3K/leS6+gop5q2y6CsvvoboMyj1p1N4Vee6lL87msojnOCOryxPFg==
+  dependencies:
+    "@graphql-tools/utils" "^6.0.0"
+    camel-case "4.1.1"
+    common-tags "1.8.0"
+    constant-case "3.0.3"
+    import-from "3.0.0"
+    lower-case "2.0.1"
+    param-case "3.0.3"
+    pascal-case "3.1.1"
+    tslib "~2.0.0"
+    upper-case "2.0.1"
 
 "@graphql-codegen/plugin-helpers@^1.17.8", "@graphql-codegen/plugin-helpers@^1.17.9", "@graphql-codegen/plugin-helpers@^1.18.0":
   version "1.18.0"
@@ -5848,7 +5864,7 @@ graphql@0.9.6, graphql@^0.9.5, graphql@^0.9.6:
   dependencies:
     iterall "^1.0.0"
 
-graphql@^15.3.0, graphql@^15.4.0:
+graphql@^15.3.0:
   version "15.4.0"
   resolved "https://registry.yarnpkg.com/graphql/-/graphql-15.4.0.tgz#e459dea1150da5a106486ba7276518b5295a4347"
   integrity sha512-EB3zgGchcabbsU9cFe1j+yxdzKQKAbGUWRb13DsrsMN1yyfmmIq+2+L5MqVWcDCE4V89R5AyUOi7sMOGxdsYtA==

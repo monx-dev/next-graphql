@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
-    "@graphql-codegen/add": "^2.0.1",
+    "@graphql-codegen/add": "1.15.3",
     "@graphql-codegen/cli": "^1.19.0",
     "@graphql-codegen/schema-ast": "^1.17.8",
     "@graphql-codegen/typescript": "^1.17.11",
