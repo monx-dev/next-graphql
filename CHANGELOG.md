@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/monx-dev/next-graphql/compare/v1.1.0...v1.1.1) (2020-11-05)
+
+
+### Bug Fixes
+
+* codegen script ([3257b24](https://github.com/monx-dev/next-graphql/commit/3257b245f0c6dedd09891aa81ec5e33042c8b2fd))
+
 # [1.1.0](https://github.com/monx-dev/next-graphql/compare/v1.0.1...v1.1.0) (2020-11-05)
 
 
