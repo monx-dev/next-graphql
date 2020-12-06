@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/monx-dev/next-graphql/compare/v1.2.1...v1.2.2) (2020-11-05)
+
+
+### Bug Fixes
+
+* config export ([4d4b70e](https://github.com/monx-dev/next-graphql/commit/4d4b70e93ee1a72c2e3ae37f754dd576bb0512ea))
+
 ## [1.2.1](https://github.com/monx-dev/next-graphql/compare/v1.2.0...v1.2.1) (2020-11-05)
 
 
