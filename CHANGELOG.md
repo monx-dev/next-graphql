@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/monx-dev/next-graphql/compare/v1.2.2...v1.2.3) (2020-12-06)
+
+
+### Bug Fixes
+
+* add pages folder ([49854e1](https://github.com/monx-dev/next-graphql/commit/49854e1bda89d08ccbcdcdc9932d12f7b601a7ce))
+
 ## [1.2.2](https://github.com/monx-dev/next-graphql/compare/v1.2.1...v1.2.2) (2020-11-05)
 
 
