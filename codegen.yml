@@ -2,8 +2,8 @@ schema: ./src/graphql/schema.ts
 documents:
   - ./src/components/**/*.tsx
   - ./src/components/**/*.ts
-  - ./src/pages/**/*.tsx
-  - ./src/pages/**/*.ts
+  - ./src/pages/*.tsx
+  - ./src/pages/*.ts
 generates:
   ./src/graphql/generated/types.ts:
     plugins:
