@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/monx-dev/next-graphql/compare/v1.2.3...v1.2.4) (2020-12-06)
+
+
+### Bug Fixes
+
+* pages codegen ([8307fb8](https://github.com/monx-dev/next-graphql/commit/8307fb88b720a190004033f2169a1f7e35582908))
+
 ## [1.2.3](https://github.com/monx-dev/next-graphql/compare/v1.2.2...v1.2.3) (2020-12-06)
 
 
